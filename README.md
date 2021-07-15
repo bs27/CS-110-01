@@ -1,2 +1,2 @@
-# CLUWORK
-Contains Coursework and Projects From Time at CLU
+# CS-110-01
+Contains Coursework and Projects From Time in class CS-110-01
